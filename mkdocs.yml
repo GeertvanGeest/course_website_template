@@ -3,6 +3,7 @@ nav:
     - Home: index.md
     - Precourse preparations: precourse.md
     - Course schedule: course_schedule.md
+    - Exercises: exercises.md
 
 theme:
   name: material
@@ -12,7 +13,6 @@ theme:
 # Repository
 repo_name: GeertvanGeest/course_website_template
 repo_url: https://github.com/GeertvanGeest/course_website_template
-edit_uri: ""
 
 markdown_extensions:
   - abbr
